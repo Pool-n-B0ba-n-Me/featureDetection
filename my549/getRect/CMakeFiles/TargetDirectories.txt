@@ -1,1 +1,0 @@
-/Users/martinyiangao/Documents/getRect/CMakeFiles/getCorner.dir
